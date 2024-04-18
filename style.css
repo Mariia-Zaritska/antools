@@ -949,6 +949,9 @@ line-height: 24px;
     
 }
 .modal-btn1{
+	width: 118px;
+    height: 38px;
+    border-radius: 8px;
     display: block;
     font-weight: 600;
     color: white;
@@ -962,7 +965,7 @@ line-height: 24px;
     padding-top: 10px;
 }
 .mdl-1{
-    margin-left: -5px;
+   padding-left: 28px;
 }
 .ab:hover{
     background-color: rgb(253, 124, 77);
